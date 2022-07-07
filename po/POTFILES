@@ -1,0 +1,7 @@
+data/app.nick.gtest.desktop.in
+data/app.nick.gtest.appdata.xml.in
+data/app.nick.gtest.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
